@@ -35,5 +35,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "nokogiri", "= 1.5.4"
   spec.add_dependency "redis-rack-cache", "1.1"
-  spec.add_dependency "json", "1.0.0"
+  spec.add_dependency "json"
 end
